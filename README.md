@@ -146,13 +146,13 @@
 //  (Anleitung: siehe ANLEITUNG.md)
 // ══════════════════════════════════════════════════════════════
 const FIREBASE_CONFIG = {
-  apiKey:            "DEIN_API_KEY",
-  authDomain:        "DEIN_PROJEKT.firebaseapp.com",
-  databaseURL:       "https://DEIN_PROJEKT-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId:         "DEIN_PROJEKT",
-  storageBucket:     "DEIN_PROJEKT.appspot.com",
-  messagingSenderId: "DEINE_SENDER_ID",
-  appId:             "DEINE_APP_ID"
+  apiKey:  "AIzaSyBlBS0oQ73_Tm1K4QMIthgHwk5sLGeEZpQ",
+  authDomain:  "vereinsmanager-canucks.firebaseapp.com",
+  databaseURL: "https://vereinsmanager-canucks-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "vereinsmanager-canucks",
+  storageBucket: "vereinsmanager-canucks.firebasestorage.app",
+  messagingSenderId: "971472721142",
+  appId: "1:971472721142:web:18e57be329ae485233c8d7"
 };
 // ══════════════════════════════════════════════════════════════
 
